@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reversi</string>
+    <string name="stone_black">黒</string>
+    <string name="stone_white">白</string>
+    <string name="rule_reversi">リバーシ</string>
+    <string name="rule_othello">オセロ</string>
+</resources>
